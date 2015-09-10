@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		041E01E91BA178B200A87EE9 /* HDLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 041E01E81BA178B200A87EE9 /* HDLog.m */; };
 		0EE0A9210D0D82A3C2841D6F /* Pods_HDDemo_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D5FDEA3C0765556DBA18575 /* Pods_HDDemo_Example.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		3553E3292C0202C56E76FB2E /* Pods_HDDemo_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34EB46A7B6BA1BBC5E7FDEAA /* Pods_HDDemo_Tests.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		041E01E71BA178B200A87EE9 /* HDLog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HDLog.h; path = HDDemo/HDLog.h; sourceTree = "<group>"; };
+		041E01E81BA178B200A87EE9 /* HDLog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HDLog.m; path = HDDemo/HDLog.m; sourceTree = "<group>"; };
 		057426DDA55BA17D1D09BE16 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		29666391FB2AF39E909AB3FC /* Pods-HDDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HDDemo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HDDemo_Tests/Pods-HDDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		34E8561B29E5FDC7080AA04D /* HDDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HDDemo.podspec; path = ../HDDemo.podspec; sourceTree = "<group>"; };
@@ -178,6 +181,8 @@
 				34E8561B29E5FDC7080AA04D /* HDDemo.podspec */,
 				057426DDA55BA17D1D09BE16 /* README.md */,
 				DA483BF88EDA2B57E58040AF /* LICENSE */,
+				041E01E71BA178B200A87EE9 /* HDLog.h */,
+				041E01E81BA178B200A87EE9 /* HDLog.m */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -390,6 +395,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				041E01E91BA178B200A87EE9 /* HDLog.m in Sources */,
 				6003F59E195388D20070C39A /* HDAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* HDViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
