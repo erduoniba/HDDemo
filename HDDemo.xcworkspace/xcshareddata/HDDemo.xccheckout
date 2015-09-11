@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>56222B5E-7D32-4F2B-B136-C339CE287553</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HDDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0423CB5E2C6D4FE94DDC6B3E06EFF28E933BE5FF</key>
+		<string>https://github.com/erduoniba/HDDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/HDDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0423CB5E2C6D4FE94DDC6B3E06EFF28E933BE5FF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/erduoniba/HDDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0423CB5E2C6D4FE94DDC6B3E06EFF28E933BE5FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0423CB5E2C6D4FE94DDC6B3E06EFF28E933BE5FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HDDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
